@@ -10,8 +10,8 @@
  *              
  * Modified:    Rishabh Dalal, 2 June 2018
  * Description: Added functions to trim the code by merging the
- * 				same consequent characters and handling all of
- * 				them at once in their respective functions for 
+ * 		same consequent characters and handling all of
+ * 		them at once in their respective functions for 
  *              faster interpretation of bf programs.
  */
 
